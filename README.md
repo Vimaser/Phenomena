@@ -2,7 +2,7 @@
 
 Your job, should you accept it, is to build and deploy an API for a top secret message board.
 
-Project Phenomena is about providing a safe place for people to anonymously discuss the paranormal, to that end we intend to provide the following things: asdf
+Project Phenomena is about providing a safe place for people to anonymously discuss the paranormal, to that end we intend to provide the following things: asdf asdf
 
 ## Endpoints
 
