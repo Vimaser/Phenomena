@@ -1,5 +1,6 @@
 require('dotenv').config();
 
+
 const { rebuildDB } = require('../db/seed_data');
 const { client, createReport, getOpenReports, _getReport, closeReport, createReportComment } = require('../db');
 
